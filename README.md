@@ -1,4 +1,4 @@
-# twitter_scraping
+# twitter_scraping by selenium and Tweety API
 
 The purpose of this porject is to get data from Twitter for a sentiment analysis practice.
 
